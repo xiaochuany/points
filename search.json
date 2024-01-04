@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "points",
+    "section": "",
+    "text": "simulation of commonly used point processes:\n- binomial - Poisson - Gibbs - Hawkes"
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "points",
+    "section": "Install",
+    "text": "Install\npip install points"
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "points",
+    "section": "How to use",
+    "text": "How to use\nget a Poisson random variable\n\nPo()\n\n5\n\n\n\nPo(10)\n\n8"
+  },
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "core",
+    "section": "",
+    "text": "source\n\nPo\n\n Po (lam:float=1.0)\n\n\nPo(20)\n\n31"
+  }
+]
