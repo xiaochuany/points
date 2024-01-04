@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "points"
+  site-url: "https://xiaochuany.github.io/points"
+  description: "point processes simulation"
+  repo-branch: main
+  repo-url: "https://github.com/xiaochuany/points"
