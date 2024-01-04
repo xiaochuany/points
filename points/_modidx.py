@@ -5,4 +5,4 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://xiaochuany.github.io',
                 'git_url': 'https://github.com/xiaochuany/points',
                 'lib_path': 'points'},
-  'syms': {'points.core': {'points.core.foo': ('core.html#foo', 'points/core.py')}}}
+  'syms': {'points.core': {'points.core.Po': ('core.html#po', 'points/core.py')}}}
